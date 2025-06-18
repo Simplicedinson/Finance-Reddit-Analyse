@@ -1,0 +1,25 @@
+# --- Core data & scraping ---
+pandas>=2.2.2
+requests>=2.32.0
+yfinance>=0.2.63
+
+# --- Reddit API wrappers ---
+praw>=7.7.1
+asyncpraw>=7.8.1
+nest-asyncio>=1.6.0
+
+# --- LLM & AI clients ---
+openai>=1.30.0
+google-generativeai>=0.8.5
+
+# --- Web API / Auth (FastAPI stack) ---
+fastapi>=0.115.13
+uvicorn[standard]>=0.29.0
+python-jose[cryptography]>=3.3.0
+passlib>=1.7.4
+pydantic>=2.7.1
+jinja2>=3.1.3
+python-dotenv>=1.0.1
+
+# --- Nice-to-have CLI / logging ---
+rich>=13.7.1
