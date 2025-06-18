@@ -1,0 +1,85 @@
+Post Title: Which AI tools do you use?
+Post Text: I’m sure we all use some form of LLM to casually ask questions. I use ChatGPT to analyze my stock portfolio to give me advice (I just take a screenshot and upload it). It gives me some rough pointers and then I ask it more questions to delve deeper. 
+
+What other methods do you guys use? Anything useful/valuable on a day to day basis?
+
+Comments:
+User_1: None. Its a huge waste of time since I end up having to double check for accuracy
+User_2: For stocks use deterministic statistics and normal analytics tools. You need high reliability and real time facts and updates.
+
+Recently asked o1 to show me the month over month increase of the companies with highest gains from sp500 over the last year and the output was wrong. AI would rather lie, but stay confident, than telling it doesn’t know. Furthermore, the AIs don’t all have access to the latest stock market data - even the search and real time ai.
+User_3: I’m open minded towards using these tools, but at this point I don’t use them because I still feel I would have to double check everything they spit out.
+User_4: None. Don’t trust it yet.
+User_5: GPT when learning something new, to test my knowledge or ask deeper questions. I'd be careful about using it with something I'm completely unfamiliar with tho.
+
+Otherwise I don't see any reason to use AI
+User_6: I don't use it to analyze my portfolio or anything related to metrics. I think it's particularly bad for that right now. 
+
+However, pretty effective at summarizing, doing some pitch presentation of companies to reduce the work load of searching a new company. But it requires to be specific.
+User_7: I asked it to list me the top 5 ETFs with the highest CAGR over 3/5/10 years, in order of highest to lowest.
+
+And it couldn’t even do that. Just copied and pasted some motley fool etf article.
+
+A simple task to tabulate and list things ranked in number order…
+
+Gl with deeper analysis.
+User_8: Notebook LM. It uses directly only the sources you upload, no other(internet) outside information.
+User_9: I use it to provide answers to Reddit questions
+User_10: ChatGPT and Gemini
+User_11: We just launched a stock analyst agent. onboarding the next group of users over the next few days. [https://stonkreport.com](https://stonkreport.com)
+User_12: I created [Investabloom](https://chromewebstore.google.com/detail/investabloom-news-ai-stoc/jpgnpmdlmnhcdnghhihliaolbmmbmpkg), It scan news articles, make stock recommendations and predict their potential impact on stock prices.  I did that on my own by watching video on Youtube on how to code... So please give it a try
+User_13: I only use ChatGPT and Perplexity. I would never use a Chinese AI on my devices. I don't know how people do that so casually; it seems like an irresponsible madness with their information
+User_14: Google search with AI overviews 
+
+Gemini or notebook lm for more niche cases
+User_15: I use ChatGPT everyday for casual brainstorming. For example we’re renovating our garden and I brainstorm with gpt about plant and tree suggestions, care tips, design ideas, etc. 
+
+A also get it to write stories for my son. He loves that “robot” writes him stories sometimes.
+User_16: Deepseek
+    Reply: Shoddy_Ad7511: None. Its a huge waste of time since I end up having to double check for accuracy
+    Reply: EpicOfBrave: For stocks use deterministic statistics and normal analytics tools. You need high reliability and real time facts and updates.
+
+Recently asked o1 to show me the month over month increase of the companies with highest gains from sp500 over the last year and the output was wrong. AI would rather lie, but stay confident, than telling it doesn’t know. Furthermore, the AIs don’t all have access to the latest stock market data - even the search and real time ai.
+    Reply: leaning_on_a_wheel: I’m open minded towards using these tools, but at this point I don’t use them because I still feel I would have to double check everything they spit out.
+    Reply: Sirgolfs: None. Don’t trust it yet.
+    Reply: ohSpite: GPT when learning something new, to test my knowledge or ask deeper questions. I'd be careful about using it with something I'm completely unfamiliar with tho.
+
+Otherwise I don't see any reason to use AI
+    Reply: WillZer: I don't use it to analyze my portfolio or anything related to metrics. I think it's particularly bad for that right now. 
+
+However, pretty effective at summarizing, doing some pitch presentation of companies to reduce the work load of searching a new company. But it requires to be specific.
+    Reply: nobertan: I asked it to list me the top 5 ETFs with the highest CAGR over 3/5/10 years, in order of highest to lowest.
+
+And it couldn’t even do that. Just copied and pasted some motley fool etf article.
+
+A simple task to tabulate and list things ranked in number order…
+
+Gl with deeper analysis.
+    Reply: RiskyOptions: Notebook LM. It uses directly only the sources you upload, no other(internet) outside information.
+    Reply: FirstEnd6533: I use it to provide answers to Reddit questions
+    Reply: KourtneyBoos16: ChatGPT and Gemini
+    Reply: j4ys0nj: We just launched a stock analyst agent. onboarding the next group of users over the next few days. [https://stonkreport.com](https://stonkreport.com)
+    Reply: Odd_Damage5163: I created [Investabloom](https://chromewebstore.google.com/detail/investabloom-news-ai-stoc/jpgnpmdlmnhcdnghhihliaolbmmbmpkg), It scan news articles, make stock recommendations and predict their potential impact on stock prices.  I did that on my own by watching video on Youtube on how to code... So please give it a try
+    Reply: Oquendoteam1968: I only use ChatGPT and Perplexity. I would never use a Chinese AI on my devices. I don't know how people do that so casually; it seems like an irresponsible madness with their information
+    Reply: Major_Intern_2404: Google search with AI overviews 
+
+Gemini or notebook lm for more niche cases
+    Reply: circleribbey: I use ChatGPT everyday for casual brainstorming. For example we’re renovating our garden and I brainstorm with gpt about plant and tree suggestions, care tips, design ideas, etc. 
+
+A also get it to write stories for my son. He loves that “robot” writes him stories sometimes.
+    Reply: DankesObamapart2: Deepseek
+        Reply: KimJongTrill44: At this point it’s like 60/40 whether it’s correct info or the AI is just confidently incorrect. Not much different than Reddit advice.
+        Reply: szakee: "*AI would rather lie, but stay confident, than telling it doesn’t know*."  
+so, like managers
+        Reply: EconomicAffairs: yeah to use chatgpt with good market data you need to pay for [finchat.io](http://finchat.io) Chatgpt only lies on that hahah
+        Reply: LychSavage: Fully agree.
+
+Similarly to when you are writing a research paper, Wikipedia (AI equivalent to this scenario) is used to gather a robust amount of information about your topic, it is not cited as a source, but it is a starting point on what to ask or look into. OP and anyone else should not be using GPT to keep asking it questions to find more answers, use it initially (analyzing a portfolio) to gain base level information to research, if you find an answer that is large in information, repeat and use those answers as research outside of AI. 
+
+  
+The process can take time, but it is more important to actually learn and gather the "correct"/credible information, than taking the easy path.
+        Reply: GearDry6330: Your loss
+        Reply: Davido201: Not sure why people are downvoting you lol. What a bunch of haters.
+        Reply: crazybutthole: That's like going to Dollar tree to get noise cancelling headphones.
+            Reply: circleribbey: People do get irrationally upset about ChatGPT, lol
+            Reply: DankesObamapart2: Id much rather pay 1 dollar than 500 lol

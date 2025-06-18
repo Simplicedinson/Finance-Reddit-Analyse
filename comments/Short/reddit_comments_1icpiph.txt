@@ -1,0 +1,561 @@
+Post Title: DeepseekV3 outperforms GPT-o4 and Llma in benchmark test. Anyone can run the test them to verify.
+Post Text: 
+To the arrogant ones who dismissed Deepseek as mere copy-and-paste simply because it's Chinese, stop embarassing yourself out of ignorance. It outperforms GPT-o4 and Llma in benchmark test. Anyone can run the test them to verify.
+
+Comments:
+User_1: I’m not suspicious about the outperformance, I’m suspicious about the reported cost to achieve that outperformance.
+User_2: Oh they need humans Engineers, and well-paid now. Interesting!
+User_3: Fuck that loser posing as a 40 year old fuckboy. Meta is already ancient
+User_4: Because the chinese government is so truthful.
+User_5: First of all, there's no o4. It's 4o.
+
+Second, 4o is literally the free-for-all model. It's not state of the art.
+
+That'd be o1, o1 pro and soon to be o3.
+
+EDIT: please motivate your downvotes. My information is facts, not opinions.
+User_6: I guess chinese workers dont take 2h paid yoga breaks twice a day
+User_7: I have run the test. The answer is 7 miles.
+User_8: People keep talking about price, what factors affect the price of these things?
+User_9: War Room. I love the way tech bros like using war metaphors, and army analogies for everything. It used to sicken me when I worked at certain places .. wait, I had a point to make... Oh yeah, Zuck Fuckerberg!
+User_10: They used H100s and they used chatgpt api calls
+User_11: Just to clarify. Deepseek R1:671b outperforms o4 and Llma. But unless you have some beefy hardware, YOU won’t be running it with that level of performance at home. Unless you have a handful of 3090s sitting around. There are smaller models (14b) that can run on lower power hardware, but that’s an apples or oranges comparison at that point.
+User_12: The billionaire tech firms will want to shoot this down and down play it quickly. The arrogance is all there to see. Nobody can do it better than than us is the message it must be fake 🤣
+User_13: This story again? Meta should scramble to to war rooms to work out how to make a good product.
+User_14: Allegedly
+User_15: IMO, there’s 2 reasons, ignoring copyright & chinese government involvement. They probably get huge benefits for competing with USA on software.
+User_16: Zuck recently bragged about laying off 5% of his coders due to AI. Now he's worried about AI?
+User_17: Idek all I saw was big red NVDA and bought a bunch of calls … easy peasy … my GBT called Deepseek an ai side piece 😂😂😭
+User_18: How is it the smart guy caught flat footed on this?
+User_19: War room budget - 10 billion dollars
+User_20: S
+User_21: I’m not big into the computer science stuff. Someone correct me if I’m wrong.
+
+But isn’t this a coding/programing issue?
+
+If so why is it that big of a deal when the better hardware has the ability to outperform?
+
+Chinese companies aren’t exactly known for being upfront about their financials so not sure if I believe the cost. And I wonder how much they pay their employees. Probably slave labor costs compared to the US
+
+Yea I’m willing to bet if deep-seek was required to pay livable wages in the United States the cost wouldn’t be so low.
+User_22: Millions of dollars spent in war rooms. I have the answer China stole ChatGPT‘s research and development and since they did not have to put that much time into RND they were able to make it faster and cheaper. Simple
+User_23: Meanwhile I’m deleting Facebook and insta today, need to figure out how I’m not counted as an active user and planting seeds that to friends and family we don’t need the dopamine from these platforms. We are all weak and they feed on us
+User_24: Zuckerberg and War Room 😂
+User_25: This is the technology innovation cycle. It takes a TON of research and resources to first bring something new into existence, and then the next iterations come faster and cheaper. Unfortunately the US got trapped in phase 1 and so the Chinese took on the optimization game. Too bad we aren’t collaborating instead of competing.
+User_26: It’s called good programming. Might try it sometime
+User_27: Zuck.... lol. Can't steal this one lizard boy.....
+User_28: lol. Cyber zuck is just mad someone made some cool internet thing before him. Efff meta
+User_29: It’s literally Chinese propaganda attacking the USA stock market. 6 million more like 6 billion… hence there app literally crashed and got a massive cyber attack because it’s a pile of dog shit app making everyone believe it’s better then ChatGPT. All this APP dose is search books and websites and takes an extra minute to find it then it gives you the details on your question. Nothing about it is smarter then humans which ChatGBT has said in next coming years there AI will be able to answer questions us humans don’t have answers too. Massive buying opportunity right now.
+User_30: Last week, Meta be like “we want to fire all our engineers!”
+
+This week Meta be like “we want all our engineers working overtime to fire themselves!”
+
+lol right. As if anyone is going to put in real effort to put themselves out of a job
+User_31: Why don't they just employ AI to build AI models? / S but also maybe a solution?
+User_32: From my understanding, the US base AI holds way more data, and this deepseek stuff just has answers to common questions, not the full content of the full dataset. Is that correct?
+User_33: Hoolichat left the chat
+User_34: I made them write a poem about taxation in Hungarian, ChatGPT was definitely better there than DeepSeek.
+User_35: Nvidia holders are starting to sound a lot like meme stock baggies js
+User_36: I’m excited to see how META improves. Competition is good, and the AI rush is going to be crazy!
+User_37: Honestly sounds to good to be true, give it a few months and we find out it was just people and not ai
+User_38: V3 isn't r1. 
+
+Just saying.
+User_39: I wouldn’t do a god damn thing for that lizard psychopath
+User_40: Meta is nothing and Z is a piece of trash based on his behavior.
+User_41: OP’s account (post/comment) history is somewhat interesting…
+User_42: OK, Xi! Jeez, don't get your panties up in a bunch!
+User_43: Easy, they stole industrial secrets, like every other Chinese company
+User_44: Going to be interesting to see if this has indeed been quietly funded by the Chinese government. Either way, the Deep Seek devs have done a great job.
+User_45: ah yes, the new chadgpt o4 llm
+User_46: Isn’t this just like 20 years ago when China burst onto the global automotive scene? And every political pundit and economist said everyone would drive a Chinese car within a decade building cars at Mercedes or BMW level for less than the price of a basic Ford Focus. 
+
+Fast forward 2 decades still nobody drives a Chinese car. Because Chinese manufacturers lied about manufacturing costs, lied about car performance/build quality and ripped off every major manufacturer to make their products appear decent to shake the market. But they still rocked markets for a few years. 
+
+At the moment this has to be viewed as, potentially at least, just the CCP escalating the proxy war with Trump over Chinese tariffs and trying to manipulate the optics of his bans on Chinese tech firms.
+User_47: That reminds me of Rocket Lab USA RKLB saying that they can do the job (NASA) for less than half price.
+User_48: $6 million if you dont have to pay for labor or pay in chinese pesos 👺
+User_49: Deepseek is absolutely garbage. Try to use it and you will see what I'm talking about. I prefer gpt.
+User_50: It's Open. That's it. Meeting adjourned. Go do your 2 hr yoga class, bruh.
+User_51: i heard they copied openai
+User_52: They used AI to build a better AI.
+User_53: [deleted]
+User_54: Just another example of China stealing something from the U.S. and calling it Chinese. DeepSeek uses American NVIDIA chips. Chips China obtained illegally. DeepSeek would not work without American chips. Meaning American AI can continue to improve with nothing from China. Whereas, China can do nothing with AI unless America provides the chips for it.
+User_55: East, china isn’t motivated by profit
+User_56: Is there a margin of error on those tests? Seems like a copy to me
+    Reply: toastyflash: I’m not suspicious about the outperformance, I’m suspicious about the reported cost to achieve that outperformance.
+    Reply: CryptoBoy-007: Oh they need humans Engineers, and well-paid now. Interesting!
+    Reply: YusoLOCO: Fuck that loser posing as a 40 year old fuckboy. Meta is already ancient
+    Reply: BooRadley3691: Because the chinese government is so truthful.
+    Reply: e79683074: First of all, there's no o4. It's 4o.
+
+Second, 4o is literally the free-for-all model. It's not state of the art.
+
+That'd be o1, o1 pro and soon to be o3.
+
+EDIT: please motivate your downvotes. My information is facts, not opinions.
+    Reply: Gman90sKid: I guess chinese workers dont take 2h paid yoga breaks twice a day
+    Reply: MakeoverBelly: I have run the test. The answer is 7 miles.
+    Reply: TallQuiet1458: People keep talking about price, what factors affect the price of these things?
+    Reply: GuybrushBeeblebrox: War Room. I love the way tech bros like using war metaphors, and army analogies for everything. It used to sicken me when I worked at certain places .. wait, I had a point to make... Oh yeah, Zuck Fuckerberg!
+    Reply: endless_looper: They used H100s and they used chatgpt api calls
+    Reply: JakesInSpace: Just to clarify. Deepseek R1:671b outperforms o4 and Llma. But unless you have some beefy hardware, YOU won’t be running it with that level of performance at home. Unless you have a handful of 3090s sitting around. There are smaller models (14b) that can run on lower power hardware, but that’s an apples or oranges comparison at that point.
+    Reply: MASH12140: The billionaire tech firms will want to shoot this down and down play it quickly. The arrogance is all there to see. Nobody can do it better than than us is the message it must be fake 🤣
+    Reply: uberfunstuff: This story again? Meta should scramble to to war rooms to work out how to make a good product.
+    Reply: Vazhox: Allegedly
+    Reply: Unique_Ad_330: IMO, there’s 2 reasons, ignoring copyright & chinese government involvement. They probably get huge benefits for competing with USA on software.
+    Reply: Kickinitez: Zuck recently bragged about laying off 5% of his coders due to AI. Now he's worried about AI?
+    Reply: wienerdogprincess: Idek all I saw was big red NVDA and bought a bunch of calls … easy peasy … my GBT called Deepseek an ai side piece 😂😂😭
+    Reply: Zen28213: How is it the smart guy caught flat footed on this?
+    Reply: Sad_Ad_8006: War room budget - 10 billion dollars
+    Reply: Rey_170: S
+    Reply: Objective-Box-399: I’m not big into the computer science stuff. Someone correct me if I’m wrong.
+
+But isn’t this a coding/programing issue?
+
+If so why is it that big of a deal when the better hardware has the ability to outperform?
+
+Chinese companies aren’t exactly known for being upfront about their financials so not sure if I believe the cost. And I wonder how much they pay their employees. Probably slave labor costs compared to the US
+
+Yea I’m willing to bet if deep-seek was required to pay livable wages in the United States the cost wouldn’t be so low.
+    Reply: motbackwords: Millions of dollars spent in war rooms. I have the answer China stole ChatGPT‘s research and development and since they did not have to put that much time into RND they were able to make it faster and cheaper. Simple
+    Reply: Classic_Cream_4792: Meanwhile I’m deleting Facebook and insta today, need to figure out how I’m not counted as an active user and planting seeds that to friends and family we don’t need the dopamine from these platforms. We are all weak and they feed on us
+    Reply: tomgrandy: Zuckerberg and War Room 😂
+    Reply: FutureVisions_: This is the technology innovation cycle. It takes a TON of research and resources to first bring something new into existence, and then the next iterations come faster and cheaper. Unfortunately the US got trapped in phase 1 and so the Chinese took on the optimization game. Too bad we aren’t collaborating instead of competing.
+    Reply: Plurfectworld: It’s called good programming. Might try it sometime
+    Reply: TheDudeAbidesFarOut: Zuck.... lol. Can't steal this one lizard boy.....
+    Reply: PickledYetti: lol. Cyber zuck is just mad someone made some cool internet thing before him. Efff meta
+    Reply: Hot_Marionberry9569: It’s literally Chinese propaganda attacking the USA stock market. 6 million more like 6 billion… hence there app literally crashed and got a massive cyber attack because it’s a pile of dog shit app making everyone believe it’s better then ChatGPT. All this APP dose is search books and websites and takes an extra minute to find it then it gives you the details on your question. Nothing about it is smarter then humans which ChatGBT has said in next coming years there AI will be able to answer questions us humans don’t have answers too. Massive buying opportunity right now.
+    Reply: bluecandyKayn: Last week, Meta be like “we want to fire all our engineers!”
+
+This week Meta be like “we want all our engineers working overtime to fire themselves!”
+
+lol right. As if anyone is going to put in real effort to put themselves out of a job
+    Reply: VisuellTanke: Why don't they just employ AI to build AI models? / S but also maybe a solution?
+    Reply: iMogal: From my understanding, the US base AI holds way more data, and this deepseek stuff just has answers to common questions, not the full content of the full dataset. Is that correct?
+    Reply: wedge1988: Hoolichat left the chat
+    Reply: me_ir: I made them write a poem about taxation in Hungarian, ChatGPT was definitely better there than DeepSeek.
+    Reply: chadcultist: Nvidia holders are starting to sound a lot like meme stock baggies js
+    Reply: TheiaFintech: I’m excited to see how META improves. Competition is good, and the AI rush is going to be crazy!
+    Reply: Zbinxsy: Honestly sounds to good to be true, give it a few months and we find out it was just people and not ai
+    Reply: Inevitable_Butthole: V3 isn't r1. 
+
+Just saying.
+    Reply: sundowner89: I wouldn’t do a god damn thing for that lizard psychopath
+    Reply: ascourgeofgod: Meta is nothing and Z is a piece of trash based on his behavior.
+    Reply: the_hillman: OP’s account (post/comment) history is somewhat interesting…
+    Reply: bloodem: OK, Xi! Jeez, don't get your panties up in a bunch!
+    Reply: Natharius: Easy, they stole industrial secrets, like every other Chinese company
+    Reply: crossy1686: Going to be interesting to see if this has indeed been quietly funded by the Chinese government. Either way, the Deep Seek devs have done a great job.
+    Reply: deadlyclavv: ah yes, the new chadgpt o4 llm
+    Reply: leggenda69: Isn’t this just like 20 years ago when China burst onto the global automotive scene? And every political pundit and economist said everyone would drive a Chinese car within a decade building cars at Mercedes or BMW level for less than the price of a basic Ford Focus. 
+
+Fast forward 2 decades still nobody drives a Chinese car. Because Chinese manufacturers lied about manufacturing costs, lied about car performance/build quality and ripped off every major manufacturer to make their products appear decent to shake the market. But they still rocked markets for a few years. 
+
+At the moment this has to be viewed as, potentially at least, just the CCP escalating the proxy war with Trump over Chinese tariffs and trying to manipulate the optics of his bans on Chinese tech firms.
+    Reply: Jabiraca1051: That reminds me of Rocket Lab USA RKLB saying that they can do the job (NASA) for less than half price.
+    Reply: AutistsnCreme: $6 million if you dont have to pay for labor or pay in chinese pesos 👺
+    Reply: Zendorian: Deepseek is absolutely garbage. Try to use it and you will see what I'm talking about. I prefer gpt.
+    Reply: GrouchyVacation6871: It's Open. That's it. Meeting adjourned. Go do your 2 hr yoga class, bruh.
+    Reply: DropoutDreamer: i heard they copied openai
+    Reply: C_B_Doyle: They used AI to build a better AI.
+    Reply: None: [deleted]
+    Reply: Smooth_Expression501: Just another example of China stealing something from the U.S. and calling it Chinese. DeepSeek uses American NVIDIA chips. Chips China obtained illegally. DeepSeek would not work without American chips. Meaning American AI can continue to improve with nothing from China. Whereas, China can do nothing with AI unless America provides the chips for it.
+    Reply: greasyspider: East, china isn’t motivated by profit
+    Reply: Gringe8: Is there a margin of error on those tests? Seems like a copy to me
+        Reply: allbutluk: Lmao thank you for an actual logical take… so many people downvoted when i said no way $6mil
+        Reply: dudermagee: Just a little ip theft, little bit of fuzzy accounting, some "acquired" assets, and just a pinch of communist Chinese government backing.
+        Reply: justletmesignupalre: The thing about deepseek that no one seems to mention in the finance forums and subs, is that its open source. Anyone on the planet can read through it, modify it, see if they are indeed collecting data, improve it if they want, and mainly, anyone can download it and run it.
+
+Go to any nerd forum or sub in here and you'll see people trying to run it on their machines... I have skimmed through it and for now it really seems it works faster on the same hardware, but it could be hyped up (people celebrating what they are told to celebrate)
+        Reply: DrXaos: They’re a hedge fund.  They probably shorted NVidia etc, and then claim they trained their model very cheaply.  They just made all their funding for their next generation without having to give up any share to a VC fund.
+
+I read the paper with colleagues.  It is certainly true they are extremely skilled and have put tons of work authentically into capabilities and efficiency, and have hard core CUDA developers on staff (probably from HFT originally). Many years of work.
+
+But I suspect they have access to many top end chips which they are not supposed to have.  An anomalously high fraction of NVidia revenue is to Singapore, which doesn’t have the power capacity at all to employ them domestically.
+        Reply: TechTuna1200: Even if it is more it's still a fraction of the CAPEX of the other tech giant. You can't sneak 40B USD worth of GPUs without anybody noticing. Maybe 2-4B but definitely 40B.   
+  
+Also, it's been replicated in a smaller version for 30 USD at Berkley. You can pretty much extrapolate that it is somewhere in the ballpark that deepseek claims.
+
+[https://news.ycombinator.com/item?id=42855283](https://news.ycombinator.com/item?id=42855283)
+        Reply: Expert-Diver7144: Even if it was 200x the reported cost it would still vastly undercut the price of what we have US
+        Reply: Known-Recognition-56: Either way the cats out of the bag. Even if it cost more to train than they are saying; it’s already been “trained”. The real issue now is the output cost it’s significantly less expensive than all other models. 
+
+They basically copied someone else’s homework. The other student did all the work and supplied the effort. They just simply copied and tweaked it. The cost to train no longer matters. The output efficiency is what matters now.
+        Reply: GoldmanApex: There is  only 1 covid death in China
+        Reply: iridasdiii11ulke: Well one thing is for sure restrictions on chip exports on china isn’t working
+        Reply: Appropriate-Total-29: If they use chat gpt to train it it saves quite a bit of development cost
+        Reply: caprazzi: It blows my mind how people know AI algorithms were developed by talented developers, turn around and think that the same AI will replace developers and then go surprised Pikachu when even smarter developers create a far better and more efficient AI. The Chinese and Japanese have literally been doing the same shit for decades and decades, they take American invention and perfect it then take it to market to make a killing.
+        Reply: 7-13-5: I'm with you.
+
+It's either...
+- A deliberate undercut
+- A model with back-end data sale revenue factored into the bottom-line cost
+        Reply: Rocketboy1313: Why?
+
+If anyone has an incentive to lie about the cost of developing AI it would be all the firms being paid billions to develop it forever and almost but never quite reach an end. Milk the investors for as long as possible.
+
+The Chinese have a limited budget and tech, they have an incentive to get out a working product.
+        Reply: Temporary-Aioli5866: I read it somewhere that the 5.58M was spent developing & training the LLM. It doesn't include infrastructure, but it is definitely not in the billions.
+        Reply: DankesObamapart2: H1b only, americans are too expensive!
+        Reply: JudgmentGold2618: People seem to forget about them fudging their Covid numbers
+        Reply: None: [deleted]
+        Reply: LeSeanMcoy: This is correct. 4o is quite old at this point and gets absolutely trumped by 1o. The fact op confused the two makes me doubt they have any experience or knowledge about this topic. They’re just opinionated about it for some reason”other” reason.
+
+Also, Meta is not “scrambling to figure out how they did it” there’s a white paper literally describing how they did it lol.
+
+What Deepseek did is fantastic and will possibly advance the industry as a whole.
+        Reply: justdoubleclick: You mean if they did they’d have a model as fast as US companies did? /s
+        Reply: JudgmentGold2618: they just bounce around on suicide nets
+        Reply: kellermayer: Imagine u spend 400k (on a ferrari for exaple) to be able to go at 300km/h
+Now another company launched a car (nissan gtr) that can go at same speed for just 150k, so this is an example of how is deepSeek able to perform the same tasks as chat gpt for a lot less, if thats true, it would be amazing. But im neutral in view if its true or not.
+
+So the factor is that with less capital is able to do the same as big tech titan's AI, and bc china cant access nvda and other cloud computing services, its from chinese chips. Hope it helps
+        Reply: Temporary-Aioli5866: And at consulting firms too.
+        Reply: Temporary-Aioli5866: Lol 😆
+        Reply: Temporary-Aioli5866: the panic selling was caused by US financial market reporting.
+        Reply: Temporary-Aioli5866: On what basis do you assume the US base AI companies have more data than China? Where do you think these data stolen? 
+
+Within China alone, there are with over 1 billion population and active online users conducting e-commerce txns and generating content on their social media platform.
+        Reply: Temporary-Aioli5866: R1 is even better with reasoning.
+        Reply: Temporary-Aioli5866: Yes. FB is a sh!et app in decline.
+        Reply: Temporary-Aioli5866: What do you find that is so interesting about my post and comment history?
+        Reply: No_Mercy_4_Potatoes: It's open source. Doesn't matter if the Chinese government funded it or Putin himself coded it, you can download the code and run it locally on your own rig.
+        Reply: Temporary-Aioli5866: It's typo! Don't be so fcking petty.
+        Reply: Temporary-Aioli5866: You got it all wrong. 
+
+Why would they compete with BMW and Mercedes on fossil fuel vehicles? The Chinese have been channeling their R&D, design, and manufacturing efforts into scaling up the entire EV ecosystem for the past two decades. They are now the undisputed leaders in EV and  on par in AV technology with US. They have the most EV and AV on the roads than in any other country.
+
+I don’t know where you’re from. Perhaps your country isn’t ready for EVs, no EV, or AV infrastructure, or your government is protecting the fossil fuel automobile industry by restricting Chinese EV imports. Have you been to a car show in China or driven a Chinese EV before? If not, you should; otherwise, you don’t know what you’re talking about.
+        Reply: Temporary-Aioli5866: And that's true. 
+US government is inefficient and wasteful. 
+Ask Elon and Vivek.
+        Reply: GuybrushBeeblebrox: Even if they did, there's no ingenuity in SV. They all copy and buy out the competition. What's your point?
+        Reply: Temporary-Aioli5866: That is what arrogance and ignorance would like you to believe. However, at the same time, WS and their media mouthpiece managed to spook everyone into panic-selling Nvidia and other US tech companies on Monday.
+        Reply: Temporary-Aioli5866: What an ignorant and dumb statement to make. The top data scientists in China are all with PhD. are very well paid
+        Reply: Temporary-Aioli5866: Chip developed by Chinese, Taiwanese, and Asian talents. 😀
+        Reply: WillZer: For the end user, it will almost be not noticeable. The two are really close, after a big weekend of testing, I would use Deepseek more than OpenAI because I find Deepseek a bit more complete and autonomous (OpenAI requires a more precise query).
+            Reply: Low_Answer_6210: Tech experts say it’s impossible with 6mil and your average Reddit user will still trust China over them
+            Reply: fabibo: You got downvoted because it’s a dumb stance to question. The paper is public and never claimed 6 mil for the development. It’s states that the final model (one run) can be run using the a number close to the 6 mil.
+
+That’s it. This is quite common in ML papers for benchmarking. That is what the final run cost and it is objectively true. 
+
+However obviously there is a lot more going one from testing, ablations runs over hardware cost and salaries to data gathering, cleaning, processing.
+
+No sane person claim that you could develop such a thing for 6 mil. It’s bullshit journalism and bait.
+            Reply: Whanksta: yes way [https://stratechery.com/2025/deepseek-faq/](https://stratechery.com/2025/deepseek-faq/)
+            Reply: MichaelThePlatypus: It's not open-source; it's open weights only. The code used to train the model is not public. There's a paper that briefly explains how they did it, but it lacks details.
+            Reply: ratsmdj: It just means that the current American ai market is hyperly overvauled
+            Reply: justletmesignupalre: I did a quick search and got a lot of results, this one is interesting:
+
+https://www.reddit.com/r/selfhosted/s/PavwGur7nL
+            Reply: Temporary-Aioli5866: 💯 exactly.
+            Reply: hugganao: fk these ppl you should remove the link and dont share what was found.
+            Reply: toastyflash: Perhaps. But then these comparisons are clearly not applicable if now you’re saying Deepseek has been recreated within a couple of days, and only for $30. 
+
+Even if Deepseek has replicated what OpenAI achieved for a fraction of the cost (still heavy doubt in my mind), it is only a replication and not innovation. So it’s just not comparable. 
+
+And getting back to an investment pov, the markets reaction yesterday was wildly out of proportion. Theres now even claims that Deepseek didn’t use H800 Nvidia chips, as they reported, but the H100 chips. Bringing us back around to doubt around their reported cost…
+            Reply: Molassesonthebed: Well, from the qutrerly report and how Singapore "sneakily" import more and more GPU from Q to Q, I am pretty sure quite a significant amount got sneaked in.
+            Reply: FinnrDrake: Why would they have a limited budget and limited tech? Genuinely curious, I don’t know much about Chinese technology/tech companies
+            Reply: toastyflash: Yeah. When the 5.5m is just for the final training run then it’s literally like comparing apples and oranges.
+            Reply: opticalsensor12: 5.5M is only for the final training run.
+
+What that means is they are only counting basically the electricity cost of running the GPUs... Haha...
+
+That's like saying NVidia Grace only took 20M to develop. 
+
+Because a mask at TSMC for 3nm is 20M. 
+
+Let's not count the billions of dollars of research and development, salaries, IPs, EDA tools, MPW wafers for each individual IP, etc into the development cost.
+
+Do you think it makes sense?
+            Reply: Low_Answer_6210: Congrats bro that in no way shape or form proves China isn’t corrupt
+            Reply: FinnrDrake: You do realize that one country being dishonest does not mean that another country cannot also be dishonest, right?
+            Reply: N4Y4R: Peak whataboutism and i'm not even pro US
+            Reply: GuybrushBeeblebrox: Indeed!
+            Reply: Inevitable_Butthole: Yeah. 
+
+Your title says v3. 
+
+Pics show it's r1. 
+
+Big difference.
+            Reply: Ok_Vacation3128: Stock market shit the bed because they thought that the CapEx in chips was not needed, and that this demonstrated that the investment by big tech in the US was poor ROI.
+
+It being open source is great, and means I can test the cost of a final training run (to an extent) but doesn’t change the question mark over true infrastructure costs. No one actually trusts the Chinese in this area; been caught lying too many times and there is too much incentive for them to be lying again now.
+            Reply: deadlyclavv: you forgot to run it through DeepSeek
+            Reply: FinnrDrake: What markers are you using to decide that a country is or is not the “..undisputed leaders in EV…”?
+            Reply: Smooth_Expression501: Correct.  Americans are from all over the world.  They go to America for the opportunities that don’t exist on their country.  
+
+That’s why no one can compete with the U.S. Your country, no matter where you are from, already has millions of people in the U.S. making America great. America has Asians, European, African, middle eastern, South American etc talents going there everyday. 
+
+Your country has only its own citizens to draw upon. The U.S. doesn’t have that problem.
+                Reply: Hot_Marionberry9569: It is impossible when literally 1 of nividas GB2000 cost over 100k American.
+                Reply: puppyXulu: The story is out, 6million in everybody's head, doesn't matter if it's true or false.
+                Reply: MagicalMirage_: I think the average reddit user these days is more likely to be a paid bot.
+                Reply: Whanksta: Actually there are multiple papers from tech experts justifying the price tag. Go google
+
+https://stratechery.com/2025/deepseek-faq/
+                Reply: staresinshamona: Like the US is reliable
+                Reply: Hurricane_Ivan: >your average Reddit user will still trust
+
+(Chinese) bots gonna bot
+                Reply: HasFiveVowels: Uh… where are these China-trusting Redditors, exactly? If anything, I’ve been seeing hysterical claims about China’s influence on it
+                Reply: Time_Ad8383: Tech experts whose best interests lie with NVDA rather than china. Those tech experts.
+                Reply: allbutluk: Well all dms i got was they were able to run it at $6mil and i dont know what im talking about so maybe its not so common sense 🤷🏻
+                Reply: hugganao: after reading through this dude's post I can see where he has shallow info on the matter and cant be considered an expert in the matter so Im not sure why you keep posting this dude.
+                Reply: jonnybruno: I swear i saw these comments word for word yesterday already
+                Reply: ticktocktoe: Thank you. I've been trying to tell people this but just get met with downvotes. Feels like im taking crazy pills. 
+
+The model being open source doesn't matter as it relates to their most significant claims (efficient training). The white paper also doesn't explain how that training was done beyond a theoretical approach. They left out some bare minimum stuff like training logs as well.
+
+It's super sketchy.
+                Reply: MagicalMirage_: And if that's the case why should we believe that they used RL for training?
+                Reply: Darkmayday: They do provide details on new activation function and techniques which researchers can replicate. OpenAI is closed source everything, no details in whitepaper. Do you somehow doubt their costs as well?
+
+It's also both cheaper to train and cheaper inference hence you can run it locally.
+                Reply: hugganao: this is open weights. thats what it means, you can download and run it but they havent open sourced the method of making the model as per their paper.
+                Reply: TechTuna1200: That’s not correct, the comparison is very applicable because you can calculate what it would cost for a bigger setup.
+                Reply: Rocketboy1313: There are embargoes on the kinds of chips that can be sold to them. They also don't have a finance industry built entirely around reckless spending to capture hypothetical future marketshare.
+
+As such, they are not trying to fleece rube investors and they are working on less powerful hardware. They have other advantages, but there is no market incentive to just keep asking for more and more cash or stringing together more and more hardware. They have to actually refine their code.
+                Reply: Temporary-Aioli5866: But certainly not in the billions.
+                Reply: me_ir: How much is the final run cost for ChatGPT?
+                Reply: Temporary-Aioli5866: Of course not, but stop the hypocrisy.
+                Reply: Temporary-Aioli5866: Of course, but don't be a hypocrite.
+                Reply: Temporary-Aioli5866: For the car brand
+Look at the sale number.
+Profitability 
+
+For the country 
+Look at the number of EV on the road, infrastructure support, and how many EV  brands the country has produced that are profitable.
+                Reply: GladStatement8128: Arrogance is what makes successful countries become irrelevant, just saying
+                    Reply: Low_Answer_6210: It’s been 3 days lmao. Next story will say they lied about their costs, then what
+                    Reply: Psycko_90: Literally in the link you posted
+
+
+
+>DeepSeek is clear that these costs are only for the final training run, and exclude all other expenses; 
+
+
+>So no, you can’t replicate DeepSeek the company for $5.576 million.
+                    Reply: Low_Answer_6210: why don’t you link me one if there’s so many big boy
+                    Reply: Low_Answer_6210: No dumbo. Please go look at the news coming out about deepseek. From a technical standpoint, it’s impossible.
+                    Reply: fabibo: You can run it at 6 mil. That’s the point.
+
+Think about it like a nice porsche. The price per unit is let’s say a 100k. That’s the manufacturing cost per unit. It’s undoubtedly true and can be verified. 
+
+The thing is the cost of developing this exact car clearly consist of more than just manufacturing. You have r and d, all the tests and engineers salaries plus a good chunk for machines.
+
+Now with deepseek it’s the same. The model can be run for 6mil that is just math and already verified and what they stated in the paper. The issue is that motherfuckers claim you can develop it for 6 mil which was never claimed by anyone. Take the car analogy. Of course you can manufacture it for 100k but there is a shit ton more going on behind the scenes which was never said to be zero in the first place.
+
+So yea running the model (assuming you get everything right the first time and don’t have to pay salaries and shit) is possible for 6mil like they stated and people told you. Developing the model is a whole other story though.
+
+Tech companies are afraid because the 6mil to just ran the exact model is still cheap af especially considering the performance
+                    Reply: A_lonely_ds: Same....ill copy and paste a comment from yesterday i wrote:
+
+They haven't explained how they did it. 
+
+Note: I've read the paper thoroughly, and I work in this space...am published in this space (tho not specifically on LLMs) and there are some gaping omissions from the paper. A lot of the part that matters is glossed over. People assume that open source = everything is on display...its not. 
+
+At the end of the day, the claims (that matter) are all centered around the training and the text *does* tell a coherent story about how they might have kept the training cost down (MoE sparsity, extensive communication overlap, FP8 training for memory savings, etc.). They also give a high‐level cluster size (2048 H800 GPUs), a total token count (14.8T), and a final GPU‐hour tally (\~2.788M).
+
+However for someone to verify or replicate these costs independently, you need fine‐grained metrics:
+
+* Actual tokens/second or steps/second logs
+* Per‐step or per‐epoch timing measurements
+* Confirmation of concurrent GPU usage over the full duration
+
+Right now, the paper provides plausibility arguments but not a fully transparent set of logs. In large‐scale LLM publications, that is unfortunately common.
+
+Furthermore, given where this model originated - I am highly skeptical about this 'breakthrough'. but am happy to be proven wrong (in fact I welcome it).
+                    Reply: Expert-Diver7144: Then why are these huge companies reacting so extremely if it’s “super sketchy”
+                    Reply: Darkmayday: It's literally both though it is cheaper to train and cheaper inference hence you can run ot locally.
+                    Reply: FinnrDrake: So this AI runs on less powerful hardware? Not only did they do all of this cheaper, but they don’t even have comparable parts?
+                    Reply: FearlessHornet: What makes you make that statement?
+                    Reply: Low_Answer_6210: This guy was a lead designer on deepseek lmao
+                    Reply: ClassicCarFanatic12: No one but OpenAI knows.
+                    Reply: 4thofthe4th: It can only be hypocrisy if you the people you're replying to are American. If they aren't, then them calling out China for corruption isn't hypocrisy and you replying that America is also corrupt is irrelevant.
+                    Reply: FinnrDrake: First, I’ve said nothing that can in anyway be interpreted as hypocritical. I merely pointed out that no matter how many countries you say are dishonest, China is still on that list. So tell me, what point are you trying to make by pointing out that other countries also lie?
+                    Reply: leggenda69: Tesla are the leading seller of EV’s globally and they don’t even feature in the top 10 of global car sales. There’s no Chinese manufacturers in the top 10 of car sales globally. 
+
+And even looking at just EV sales china aren’t dominating the market, 4 of the top 10 manufacturers are Chinese. One nearly matches Tesla then the rest are around BMW/VW market share of 5%ish. 
+
+China as a country have a high percentage of EV’s on the road. But as a state they still have the dirtiest energy.
+                    Reply: Smooth_Expression501: There’s arrogance and there’s reality. I pointed out the reality of America. I don’t think it’s arrogant to acknowledge reality. It is what it is.
+                        Reply: puppyXulu: You seem to know the future. Let us know which stock is going to the moon.
+                        Reply: stingraycharles: It’s because of the research they needed to do, and it still requires engineering talent. 
+
+For the same reason an OpenAI model run may cost $100MM, but you can’t replicate OpenAI the company for that amount.
+
+Either way, it’s super impressive because nobody saw it coming, it’s extra competition, and they managed to pull it off despite the export restrictions. Rumor has it that their parent company has a bunch of NVidia H100s, so they definitely had decent tech available.
+                        Reply: Whanksta: That’s the exact number deepseek mentioned in their paper. So wtf r u disputing.
+                        Reply: Whanksta: [https://stratechery.com/2025/deepseek-faq/](https://stratechery.com/2025/deepseek-faq/)
+                        Reply: Nearby_Fix_8613: Yea like you have to build a Porsche factory to actually build a 100k Porsche
+                        Reply: allbutluk: Lmfao ok how bout to build the goddamn factory? You typed all this still dont get it
+                        Reply: justletmesignupalre: Thanks for this, I am a bit of a nerd but hadn't taken the time to really understand what's going on. Thanks for clarifying.
+
+As for being skeptical because of where it originated... I would be skeptical about all parties involved in AI, in every country IMO... they are all pretty sketchy.
+                        Reply: hugganao: im not sure what you know, but the paper's biggest breakthrough isnt about how much it costs to run from what im seeing and by other actual experts.
+                        Reply: Darkmayday: The onus isn't on them to do any of that though. They do provide details on new activation function and techniques which researchers can replicate. OpenAI is closed source everything, no details in whitepaper. Do you somehow doubt their costs as well?
+
+It's also both cheaper to train and cheaper inference hence you can run it locally.
+                        Reply: ticktocktoe: Because they are game changing claims...but still claims none the less. 
+
+Don't get me wrong. This is in the realm of the *possible* however unlikely. And thats why everyone is reacting so 'extremely'. If the claims are accurate - this represents a paradigm shift that could have serious impacts on the industry - if they are not then its a nothingburger. You bet your ass every ai/chip company is going to be scrambling to figure out the scope of this - they just got hit with a new bit of information that they were not expecting. 
+
+ Its super sketchy because - there are A LOT of gaps in what they have claimed, and moreso its a relatively unknown company from China. For risk of sounding xenophobic...China is for all intents and purposes, our enemy, and they aren't known to be the most, um 'upfront'. AI is an arms race as much as it is a great virtual assistant. 
+
+Listen, I'm rooting for this to be true. I work in AI, this could change the face of the way that I do work for the better. But I've also seen the amount of snake oil salesmen in the AI space. These are all corporations who are trying to make a buck, lets not lose sight of that. 
+
+Is really strange to me that my view is - 'lets not blindly trust what they say until we have more information' - and everyone else is just kind of like 'nope'.
+                        Reply: ticktocktoe: Can you show me some evidence of that? Happy to be proven wrong, but I didnt see it in the paper.
+                        Reply: Rocketboy1313: Correct.
+
+That being said, I am sure more powerful hardware will help? But that is for software engineers to waffle about while asking for more money.
+                        Reply: Temporary-Aioli5866: I am not referring to you. I am referring to the US government and the mainstream legacy media. They are the world number one hypocrite!
+                        Reply: Temporary-Aioli5866: Check your facts on Tesla sales number for 2024, please!
+Chinese EVs, including BYD, are not sold in the US because of protectionism. The U.S. has imposed high tariffs on Chinese-made vehicles. Despite Tesla being allowed to be sold in the Chinese market, BYD sold more EV than Tesla globally.
+                            Reply: Low_Answer_6210: You seem to be sad Nvidia doesn’t give a fuck
+                            Reply: Psycko_90: That you can't build this level of LLM for 6 millions like you said, according to your own link. It's only the last training phase that cost 6 millions.
+                            Reply: Low_Answer_6210: ARE YOU FKN DUMB BRO? IT LITERALLY SAYS “THESE COSTS ARE ONLY FOR THEIR FINAL TRAINING RUN”. 
+
+so, because you’re a dumbass with no reading comprehension, that means, whatever they spent leading up to this and even after is undisclosed
+                            Reply: fabibo: Dear god I wish you the best of luck my guy. Don’t listen to what others say, they are just jealous.
+                            Reply: A_lonely_ds: Wut...are you thick...thats exactly what I said in my comment. I couldn't have been any more clear:
+
+>At the end of the day, the claims (that matter) are all centered around the training
+                            Reply: A_lonely_ds: This is what I'm talking about. This is so uninformed, and shows a complete lack of understanding about the topic. But its what so many people are blindly regurgitating.
+
+>The onus isn't on them to do any of that though.
+
+This is a truly wild statement. I cant make that clear enough. If you are releasing research - the onus is 100% on you to prove your claims. They can do that, but they didnt. If you've ever published peer reviewed works, you should know this (I assume you havent).
+
+>They do provide details on new activation function and techniques which researchers can replicate.
+
+I dont know how much clearer I can be....They. Do. Not. This statement is wrong.
+
+There is both an inference and a training component.
+
+For inference they provide sufficiently details to re‐implement or load the publicly released checkpoints functionally. But even this is lacking custom kernel details.
+
+But Training (what we all care about) supplies architecture, key hyper‐parameters, and many design notes (like DualPipe, MoE gating, FP8), but they are missing key components curation details, HPC scheduling, custom kernel code, etc...
+
+This would be fine if they provided logs and sufficient evidence to back up their claims but again...They. Do. Not.
+
+Basically what they've done is say "my car can go 0-60 in 2 seconds because it has turbos" and shown us a picture of the engine...sure thats in the realm of possibility...but until you show me a time slip, I have no reason to believe such a bold claim.
+
+You think meta would be spinning up 'war rooms' to validate these claims if it were as simple as 'just download the code from github bruh'
+
+>OpenAI is closed source everything, no details in whitepaper. Do you somehow doubt their costs as well?
+
+The cope here. OpenAI is not releasing research into the ether (ethical debate aside). I dont care if they trained it on freaking hamster wheels. They also haven't released cost to train....so I dont really have anything to 'doubt'.
+
+From technical perspective this comment is ignorant - from a academic perspective its downright infuriating.
+                            Reply: FinnrDrake: Thanks for the replies. I’m gonna have to do more research to try and understand how this all ties together.
+                            Reply: 4thofthe4th: Since Deepseek is Chinese and everyone is questioning the validity of their claims, it's relevant to consider the corruption of the Chinese government. What confuses us is why you went out of your way to call out the corruption in the US government. Of course they are likely also corrupt but it has nothing to do with this context
+                            Reply: leggenda69: Fair enough BYD outsold Tesla last year, by a decent margin as well. 
+
+But still didn’t make the top 10 of global car sales. Globally speaking VW Audi group is most likely to mop up the EV market.
+                                Reply: puppyXulu: Wow there proud patriot.
+                                Reply: Low_Answer_6210: I’m actually amazed he can’t understand what this means lmao
+                                Reply: allbutluk: Dear god i wish you can actually type something of value next time
+                                Reply: ClassicCarFanatic12: Lovely write-up, you’re in the wrong sub to be taken seriously though. Or more accurately for the knowledge you’re sharing to be appropriately recognized and appreciated by the majority of readers. Thanks though for putting it out there.
+                                Reply: Darkmayday: > I dont know how much clearer I can be....They. Do. Not. This statement is wrong.
+
+My man you clearly didn't read the white paper or you didnt understand the math. Ironic you call others uninformed.
+
+
+> You think meta would be spinning up 'war rooms' to validate these claims if it were as simple as 'just download the code from github bruh'
+
+My man white paper is not code on github. This is clown talk and exposes your lack of understanding
+                                Reply: Temporary-Aioli5866: Why don't you read the comment above "Because the chinese government is so truthful"? 
+
+What does the Chinese government have to do with Deepseek? How is it relevant to the OP? Why made a statement about the Chinese government as untruthful. If you are going to associate deepseek with the Chinese government? Why aren't you associate OpenAI to US government too? 
+My point is that the US government is just as corrupt and untruthful. Hence, the hypocrisy! Why make baseless assumptions just because Deepseek is a Chinese company?
+                                Reply: Temporary-Aioli5866: The Chinese automobile makers are not interested in making fossil fuel vehicles that are not environmentally friendly. The future is EV cum AV.
+                                    Reply: None: [deleted]
+                                    Reply: A_lonely_ds: >My man you clearly didn't read the white paper or you didnt understand the math. Ironic you call others uninformed.
+
+Given that I've now posted two comments that provide detailed explanation of what they have not provided...and your response was 'hurdur they provide the activation function' - im going to go with the fact you're out of your depth cotton.
+
+>My man white paper is not code on github. This is clown talk and exposes your lack of understanding
+
+Woooshh...I was making fun of your brain dead take....that somehow you think that its as easy as downloading the model and reading a whitepaper to test their claims. 
+
+But if you want to be pedanticthe withitepaper is posted on their github, as is the link to all the models in huggingface. [https://github.com/deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)
+
+So again...you do not know what you're talking about, you've made that abundantly clear.
+                                    Reply: 4thofthe4th: >What does the Chinese government have to do with Deepseek?
+
+China is a socialist state and the government has agency over the private sector (for example Alibaba). So it is relevant to consider government involvement in anything produced by China.
+
+To be clear, I don't agree that the Chinese government has anything to so with Deepseek. But I also don't think it's unreasonable to consider the possibility.
+
+>Why aren't you associate OpenAI to US government too?
+
+The US is a capilist economy and so it is less likely to have agency over a privately run company like OpenAI. But that doesn't mean it's impossible for the two to be associated.
+
+But no one is questioning the validity of ChatGPT. Deepseek is the product under the microscope here because it claims much more incredible results than anything currently produced. So although OpenAI can be associated with the US government, I don't see any reason to include OpenAI or the US government into this conversation.
+
+>My point is that the US government is just as corrupt and untruthful.
+
+My point is that it's weird for you to bring in the US government at all. The original comment was about the Chinese government. Maybe the comment was unfair but that commentor made no comparison with the US nor did they say they were from the US. So why did you go out of your way to bring in the US government? Why not Korea or South Africa or Netherlands?
+Why don't you read the comment above "Because the chinese government is so truthful"? 
+
+> Why make baseless assumptions just because Deepseek is a Chinese company?
+
+I don't disagree that it might be a baseless assumption. But my question is why was your reaction to a baseless assumption about the Chinese government to randomly bring in the US government? I understand if the commentor made some comparison with the US but he didn't mention them at all.
+                                    Reply: leggenda69: But like I said other than BYD VW Audi group are a very competitive EV producer in the top 5 in terms of sales for the last few years. Despite VW audi not releasing an EV until 2019 ten years after the first concept. 
+
+And then consider VW Audi, BMW and Mercedes combined have sold more EV’s than any other manufacturer including Tesla.
+                                        Reply: irishbball49: Fuck off
+                                        Reply: Darkmayday: White papers arent research papers where people need to replicate your study 1:1. You can read meta's whitepaper and see it doesn't provide training code nor hyperparameters either https://research.facebook.com/publications/llama-open-and-efficient-foundation-language-models/
+
+They provide a decent amount of guidance regarding techniques but not handholding by providing all the code like you are asking for. 
+
+Meta is having war rooms to understand, apply, and fact check these techniques. Im sorry you can't understand it but some people do
+
+
+Also you linking me github and writing
+> its as easy as downloading the model and reading a whitepaper to test their claims.
+
+Peak 😂
+                                        Reply: Temporary-Aioli5866: Talk when you have evidence! 
+Don't make baselrss assumptions with your sinophobic personal opinions. You have been brainwashed by the US & Western mainstream legacy media anti-china propangda.
+                                        Reply: Temporary-Aioli5866: VW Audi group was welcome in the US market while BYD was not. 
+If you want to group all brands under the VW Audi group, then why don't you group all Chinese EV brands' sales numbers together and compare?
+                                            Reply: A_lonely_ds: Dude. Stop. You're embarrassing yourself.
+
+Meta isn't making wild claims that literally shaved 600b off the market cap of the world's most valuable company. No one cares about their training as it's not revolutionary. 
+
+> They provide a decent amount of guidance regarding techniques but not handholding by providing all the code like you are asking for. 
+
+Jfc...I'm not asking for every bit of code. Are you thick. I'm saying publish your training logs. Logs =/= code.
+
+> Also you linking me github and writing
+> its as easy as downloading the model and reading a whitepaper to test their claims.
+
+> Peak 😂
+
+Read my comment again. Slower this time. You'll catch up one day. 
+
+Youre a chucklhead, clearly no amount of rational explanation is going to sway your take. Bad look bruv.
+                                            Reply: 4thofthe4th: >Talk when you have evidence! 
+Don't make baselrss assumptions with your sinophobic personalgovernment? You have been brainwashed by the US & Western mainstream legacy media anti-china propangda.
+
+Is this directed at me or the person who made the comment about the Chinese goverment?
+                                            Reply: FinnrDrake: You’ve done nothing but proven that you don’t actually understand. You’re running off of emotions, and aren’t capable of receiving input.
+                                            Reply: leggenda69: They still don’t come remotely close to VWAudi, BMW and Mercedes. And it’s not grouping all major brands together it’s all major European brands and only German brands. Or do you want to add GM and Ford to those sales numbers? 
+
+America EV sales were 1.3 million throughout 2024 BYD delivered almost 600,000 EV’s and Tesla deliver almost 500,000 in the fourth quarter of 2024 alone. The American EV market isn’t the monster you’re making it out to be
+                                                Reply: Darkmayday: You specifically asked for hyperparameters and i showed you meta whitepapers dont have it. Where are the training logs in the Meta whitepaper I linked?
+
+You are asking for shit no one puts into whitepapers, it's obvious you havent read one in a while if ever
+                                                Reply: Temporary-Aioli5866: Hear from those in the industry.
+https://www.facebook.com/share/v/18FSwaT6gy/
+                                                    Reply: A_lonely_ds: Pipe down lol.
+                                                    Reply: leggenda69: Haha fantastic! 
+
+Trust me bro, here’s a Facebook link! Haha

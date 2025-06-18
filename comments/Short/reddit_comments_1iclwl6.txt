@@ -1,0 +1,42 @@
+Post Title: Jevons Paradox: DeepSeek-R1 Will Ultimately Drive Demand for NVIDIA's GPUs
+Post Text: 
+
+Comments:
+User_1: This is giga-cope. The space as a whole might expand, but there are still winners and losers in individual companies. With all the money spent in the US AI race, there needs to be a return on this money at some point - something a lot harder to do with a free and open source competitor. Microsoft alone spent 18bn on h100 chips - there's no way this kind of spending will be continually tolerated by investors if they don't start producing anywhere close to the expected financial results.
+User_2: What happens when R2 comes out on huawei ascend ? You know it will eventually happen...
+
+May be with not with R2 but in few years ?
+User_3: It will, for sure. Just not in the timeframe that most people here hope for. If you buy semi, it’s a bet for the next semiconductor market cycle.
+
+Big tech are going to shift their priorities towards optimization for 3-5 years before they start signing new deals for even more capex on GPUs. Because they have 10-20x more GPUs than what they actually need, and more coming for the ones they already ordered. They have their own investors to please, and showing that this AI endeavor can actually become profitable is important.
+User_4: China needs to bring all its factories to the mainland to bring out 50$ scrap material grade GPUs
+User_5: Enough with these damn paradox comments, everyone gets it
+User_6: I mean, why Nvidia’s GPU?  That’s the part that all these pundits and gurus haven’t explained. Why not cheaper AI chips from Broadcom or ARM? If AI models are going the direction of open source and non-exclusive, there’s some reason that chips would stay proprietary and closed?
+User_7: Deepseek is trash.  The chicken little trade is done.
+User_8: NVDAs GPU’s will be obsolete shortly.
+    Reply: Avar1cious: This is giga-cope. The space as a whole might expand, but there are still winners and losers in individual companies. With all the money spent in the US AI race, there needs to be a return on this money at some point - something a lot harder to do with a free and open source competitor. Microsoft alone spent 18bn on h100 chips - there's no way this kind of spending will be continually tolerated by investors if they don't start producing anywhere close to the expected financial results.
+    Reply: Specter_Origin: What happens when R2 comes out on huawei ascend ? You know it will eventually happen...
+
+May be with not with R2 but in few years ?
+    Reply: TechTuna1200: It will, for sure. Just not in the timeframe that most people here hope for. If you buy semi, it’s a bet for the next semiconductor market cycle.
+
+Big tech are going to shift their priorities towards optimization for 3-5 years before they start signing new deals for even more capex on GPUs. Because they have 10-20x more GPUs than what they actually need, and more coming for the ones they already ordered. They have their own investors to please, and showing that this AI endeavor can actually become profitable is important.
+    Reply: FlaxSausage: China needs to bring all its factories to the mainland to bring out 50$ scrap material grade GPUs
+    Reply: LongLonMan: Enough with these damn paradox comments, everyone gets it
+    Reply: questionname: I mean, why Nvidia’s GPU?  That’s the part that all these pundits and gurus haven’t explained. Why not cheaper AI chips from Broadcom or ARM? If AI models are going the direction of open source and non-exclusive, there’s some reason that chips would stay proprietary and closed?
+    Reply: 9999999910: Deepseek is trash.  The chicken little trade is done.
+    Reply: NormalNature6969: NVDAs GPU’s will be obsolete shortly.
+        Reply: mintmouse: NVIDIA’s dominance in terms of its GPUs being used for AI purposes comes down to a mix of hardware superiority, software ecosystem, and inertia—a combination that Broadcom, ARM, and other competitors haven’t been able to match yet.
+
+NVIDIA’s CUDA (Compute Unified Device Architecture) is a massive advantage. CUDA is not just a programming framework; it’s an entire ecosystem optimized for AI workloads. TensorFlow, PyTorch, these are CUDA-tied, creating a lock-in effect. If you move to another chip, you don’t just switch hardware—you potentially have to rewrite and optimize a lot of software.
+
+Alternatives exist to NVIDIA GPUs (like TPUs, AMD Instinct, or Graphcore’s chips), but NVIDIA’s GPUs balance performance, availability, and ecosystem support better currently.
+
+NVIDIA has been aggressive in securing TSMC’s best manufacturing capacity for AI chips. Its GPUs remain available while competitors struggle with supply.
+
+Even as AI models go open source, hardware economics are different. NVIDIA’s GPUs are closed, proprietary, and expensive, but they work today. Open-source hardware efforts (like RISC-V AI accelerators) are in their infancy and not viable for large-scale AI training… yet.
+        Reply: Michael_J__Cox: Braindead take
+            Reply: NormalNature6969: But 100% accurate. Speaking of braindead, what’s your take, buddy?
+                Reply: Michael_J__Cox: You can literally tell my take by my response. Once again, braindead. You can’t even give the argument for me to refute. You’re just saying the impossible is going to happen with no explanation.
+                    Reply: NormalNature6969: No one but you is arguing anything. Best of luck to you, mate.
+                        Reply: Michael_J__Cox: Still waiting for your take bud. The delusions aren’t mutual here. I’m waiting in reality.

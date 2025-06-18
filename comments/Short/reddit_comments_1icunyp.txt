@@ -1,0 +1,10 @@
+Post Title: Selling CSP ITM for discount on stocks?
+Post Text: I have my own trading model which gives buy/sell signals for SP500 stocks based on momentum/trend. Average holding period for a stock is 2-3 months, so definitely not aiming on day/week trades. Main profit is coming from the larger and longer term moves. I've used the system for many years to my satisfaction and backtested it until 1998 and it consistently outperforms SPX.
+
+I'm thinking of selling CSPs ITM to get some extra discount on the purchase price. For example if a stock is $100 when the buy signal is given, sell a $105 CSP with 2 weeks to expiration for $8. If the stock stays below 105 the next 2 weeks, I will get assigned (which I want) and have a $3 discount. If the stock is above $105 after 2 weeks I won't get assigned, but still have earned $800 in 2 weeks.
+
+What do you think, would 2 weeks until expiry be ideal or would a shorter or longer period be better?
+
+Comments:
+User_1: Timing it is hard. I find the 1 week to be more beneficial if the stock will rise pretty soon. So getting in early is better if you can. Waiting too long can allow the stock price to move away from your goal.
+    Reply: Technical_Two_99: Timing it is hard. I find the 1 week to be more beneficial if the stock will rise pretty soon. So getting in early is better if you can. Waiting too long can allow the stock price to move away from your goal.

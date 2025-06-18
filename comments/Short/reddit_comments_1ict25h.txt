@@ -1,0 +1,153 @@
+Post Title: Buying in the dip : ok ?
+Post Text: Hi everyone
+
+  
+i've got some hesitation. I always wanted to pick 2-3 stock in pure AI tech to boost my exposition on US tech.  I've got 50-60% Tech ETF (world tech and nasdaq). But i would like to bet on 2-3 picks which can make the difference in 2025 and the dip is "exciting",  but i feel like a doubt in the market.
+
+My watchlist about tech :
+
+\- Arista network
+
+\- Purestorage
+
+\- Synopsys
+
+\- Vertiv
+
+Some says Broadcomm and Marvell look "risky" after the dip... I got Nvidia but Trump tarriff and the trouble about the cost of AI chipset in the context where big investor criticize more and more the yield of IA... So i guess in the medium term, nvidia will be less profitable. 
+
+So what do you think ? the last time i took 2 stock pick, i lost 10% in two day (AMD et Cheniere), so i would like to get more advice lol
+
+  
+Thank you
+
+Comments:
+User_1: We had a year and a half of "we need to build countless more data centers for this" and something like VRT did exceptionally well because of that. 
+
+Now, the question becomes: do we need the level of spending we previously thought?  If you have something linked entirely to "we need hundreds more data centers" (and the stock is priced as such) and now that number is potentially much less, then a VRT might bounce entirely because of how successful it's been and people are conditioned to buy the dip, but if you start hearing companies scaling back their plans for data center spending that's heading lower.
+
+Druckenmiller quote that I think is right: ""He taught me that you have to visualize the situation 18 months from now, and whatever that is, that's where the price will be, not where it is today," Druckenmiller said. "Never, ever invest in the present."
+
+There are bounces but I think bounces can be bounces and that's not something that I think people should necessarily read as validation of a view. Someone can play the bounce but also view it as such. More broadly I think people (and now more than ever) have to really try to view where things are going to be 6-9-12 months out. Having an edge is trying to anticipate trends/themes in advance and not have to react to/FOMO chase into them.
+
+I also wouldn't have 50%+ of my portfolio in tech. The AI energy thesis now seems in question to some degree, but some of my biggest successes of the last year or so have been nuclear power companies and boring contractors (FIX was up nearly 150% over the prior year before the recent pullback; see also LMB.)  Things are changing now that the data center theme seems in question but the last year/year and a half is an example of a fantastic way to play something like AI is not always necessarily going to be the same tech stocks that everyone else owns.
+User_2: $NBIS
+User_3: You’re thinking strategically, which is great, but AI stocks are volatile, and timing dips is tricky. Let’s break it down.
+
+Your Watchlist:
+Arista Networks (ANET): Strong play on AI infrastructure (networking for AI workloads). Growth is solid, but it’s not as hyped as Nvidia, meaning less risk of extreme volatility.
+
+Pure Storage (PSTG): AI needs fast, scalable storage. Strong growth, but enterprise IT spending could be a concern in a slower economy.
+
+Synopsys (SNPS): Essential for chip design. AI demand fuels their business long-term. Less risky than chipmakers.
+
+Vertiv (VRT): Data center infrastructure play. If AI keeps growing, this benefits. But it has already pumped quite a bit.
+
+Concerns About Nvidia & AI in General:
+
+You’re right to be cautious. Nvidia’s short-term risk (China tariffs, AI chip costs, investor skepticism) makes it less appealing for new money right now. Still, long-term, it’s dominant.
+
+Broadcom (AVGO) & Marvell (MRVL) - Risky?
+
+Broadcom: Acquisitions (VMware) add risk, but AI exposure is strong. Valuation could be a concern, but it’s a steady player.
+
+Marvell: AI demand is real, but it’s much more volatile.
+User_4: You don't seem to have the constitution for individual stock picking. If your goal is long-term appreciation, you would be best off staying away from it.
+User_5: Unaware of these stocks doing wonderful things. Look for low cost AI stocks under 20 dollars... There are some military drones equipped with AI software reasonably price right now.
+User_6: Bro has 60% tech etf and wants even more tech exposure? Ever heard of diversification?
+    Reply: dvdmovie1: We had a year and a half of "we need to build countless more data centers for this" and something like VRT did exceptionally well because of that. 
+
+Now, the question becomes: do we need the level of spending we previously thought?  If you have something linked entirely to "we need hundreds more data centers" (and the stock is priced as such) and now that number is potentially much less, then a VRT might bounce entirely because of how successful it's been and people are conditioned to buy the dip, but if you start hearing companies scaling back their plans for data center spending that's heading lower.
+
+Druckenmiller quote that I think is right: ""He taught me that you have to visualize the situation 18 months from now, and whatever that is, that's where the price will be, not where it is today," Druckenmiller said. "Never, ever invest in the present."
+
+There are bounces but I think bounces can be bounces and that's not something that I think people should necessarily read as validation of a view. Someone can play the bounce but also view it as such. More broadly I think people (and now more than ever) have to really try to view where things are going to be 6-9-12 months out. Having an edge is trying to anticipate trends/themes in advance and not have to react to/FOMO chase into them.
+
+I also wouldn't have 50%+ of my portfolio in tech. The AI energy thesis now seems in question to some degree, but some of my biggest successes of the last year or so have been nuclear power companies and boring contractors (FIX was up nearly 150% over the prior year before the recent pullback; see also LMB.)  Things are changing now that the data center theme seems in question but the last year/year and a half is an example of a fantastic way to play something like AI is not always necessarily going to be the same tech stocks that everyone else owns.
+    Reply: No-Time5606: $NBIS
+    Reply: EladioGhost: You’re thinking strategically, which is great, but AI stocks are volatile, and timing dips is tricky. Let’s break it down.
+
+Your Watchlist:
+Arista Networks (ANET): Strong play on AI infrastructure (networking for AI workloads). Growth is solid, but it’s not as hyped as Nvidia, meaning less risk of extreme volatility.
+
+Pure Storage (PSTG): AI needs fast, scalable storage. Strong growth, but enterprise IT spending could be a concern in a slower economy.
+
+Synopsys (SNPS): Essential for chip design. AI demand fuels their business long-term. Less risky than chipmakers.
+
+Vertiv (VRT): Data center infrastructure play. If AI keeps growing, this benefits. But it has already pumped quite a bit.
+
+Concerns About Nvidia & AI in General:
+
+You’re right to be cautious. Nvidia’s short-term risk (China tariffs, AI chip costs, investor skepticism) makes it less appealing for new money right now. Still, long-term, it’s dominant.
+
+Broadcom (AVGO) & Marvell (MRVL) - Risky?
+
+Broadcom: Acquisitions (VMware) add risk, but AI exposure is strong. Valuation could be a concern, but it’s a steady player.
+
+Marvell: AI demand is real, but it’s much more volatile.
+    Reply: GhostahTomChode: You don't seem to have the constitution for individual stock picking. If your goal is long-term appreciation, you would be best off staying away from it.
+    Reply: Vast_Cricket: Unaware of these stocks doing wonderful things. Look for low cost AI stocks under 20 dollars... There are some military drones equipped with AI software reasonably price right now.
+    Reply: IBangTokyoWife: Bro has 60% tech etf and wants even more tech exposure? Ever heard of diversification?
+        Reply: DoublePatouain: i understand your position. I got financial etf (very good at the moment) and Energy about LNG like cheniere (very bad currently) and some utilities etf ( very bad too).
+
+Nuclear, i'm not convinced. That looks to complicated about regulatory and construction to be a mid term solution. I bet on gas because it's the new clean energy the world ask. In US, the utiliy is from gas, and i'm sure the project of specific "utility generator" for data and factary will work with natural gas. Moreover, i'm from France, and we import a lot of LNG at the high price. In Europe, they love LNG because it's "clean".
+
+Honestly, we can't say "ai" is not the futur or we gonna stop build "data center". It's the begining. You can't imagine AI will be in every business, every home, every car. Nothing will work without AI.
+        Reply: Objective_Pie8980: I don't know if LLMs will require as much computer as previously thought, but it's hard to imagine that computer power won't be bought hand over fist for a multitude of AI applications beyond LLMs...
+        Reply: DoublePatouain: i took a little position, with Arista. I'm waiting tomorrow for Purestorage or Synopsys
+        Reply: DoublePatouain: it's very strange, lot of people said the opposite :(
+        Reply: sbuy210: you got any names?
+        Reply: DoublePatouain: Diversification is a fake. If Tech fall, Wall street fall, all the other capital market fall too, like 2008. And today tech carries Capital market. My only diversification is about type of asset : gold, crypto, direct real estate (not REITS).
+            Reply: dvdmovie1: > Honestly, we can't say "ai" is not the futur or we gonna stop build "data center". 
+
+IMO, with stories like this you have to have a sense of the "state of the story." It's not that more data centers arent going to be built at all - but what if you own something that is entirely linked to the data center theme and the view by the market is that we're going to have to build an enormous amount of data centers and suddenly there's the realization that "maybe we don't have to build as many", the stock is going lower because you've just taken it from "we're going to throw insane amounts of money at this" to maybe "we're going to still build, but at a more "normalized" pace."
+
+AI can still be a huge thing, but the eventuality was (and maybe we're at that point?) where the beneficiaries move from being where companies are spending/what companies are spending on to the people making things with it.
+
+And maybe we're not there yet or this is a transition period (will be interesting to see what META/MSFT say later) but the general idea is that you have to really follow a story like data center builds. If that story changes (not none, but maybe a more normal pace) the market will re-rate things like that very rapidly if things change.  And maybe it's a matter of diversifying between phase one (data centers, ai infrastructure) and phase two beneficiaries (NET being an example up a lot this week of that; that's something I'd add a little further to if it pulled back.) 
+
+Sometimes huge selloffs are a good buying opportunity for things to own medium/long-term, sometimes huge selloffs are a buying oppportunity for a short-term bounce but now the opportunity has shifted to some other set of names for a while (or longer?) The way the market is today, you have to try to determine which one a selloff is quicker than ever. 
+
+A lot of investing imo is trying to sort of "skate where the puck is going rather than where it's been" - you can do well betting on the now but if you get 6 months from now right before everyone piles in you can do very well.  
+
+IMO, w/LNG it's going to be a volatile stock but it's a good company and while regulations will now likely be lessened it's still an instance of something that took an enormous amount of time and money to build. Expansions to facilities have costed high single digit/low double digit billions; nobody can throw one together tomorrow/there is a sizable moat.  The valuation is still also pretty cheap; I added the other day. It's a medium position and I don't really think about it that much. They have been buying back stock and increasing the dividend. There is a considerable "shareholder return" story over time there. From 2022: Cheniere 20/20 vision: https://lngir.cheniere.com/news-events/press-releases/detail/259/cheniere-announces-2020-vision-long-term-capital
+
+Good luck.
+            Reply: ManufacturerIcy1228: Classic but high sell low strategy. Being down 10% is nothing. If buying individual stocks should be prepared to invest only what you’re willing to lose. The whole AI build out requires massive amounts of energy therefore the scalability of this has to start with the energy sector. See you in 2030.
+            Reply: No-Time5606: You Buying at the top 
+
+With NBIS won’t see these prices again - hidden gem 💎
+            Reply: GhostahTomChode: Your history of buying high and selling low tells me you either picked the wrong stocks, or had a terrible plan for managing or exiting your positions. That doesn't make you a bad person, it just makes you normal. Most people don't succeed in short term trading. 
+
+What do you think is more likely to be right, others' opinions or your actual actions?
+            Reply: IBangTokyoWife: Bro has not read a single book on investing in his entire life
+                Reply: DoublePatouain: thank you to have shared your vision
+                Reply: DoublePatouain: it's the top ? arista was at 130 3 days ago, and i took at 107.
+
+The last time someone told me a stock was a gem, that was for AEI, i lost 50% in 4 hours lol
+                Reply: DoublePatouain: all the stocks i notice fell 20-25% monday...
+                Reply: DoublePatouain: i know everyone advise to get a diversified portfolio to reduce the risk. But sorry, i'm not convinced.
+                    Reply: myzick3546: I have some money in NBIS, the way the other guy is writing worries me 😭
+                    Reply: GhostahTomChode: Not trying to be rude, but so what?
+
+When there was blood in the streets on Monday I bought NVDA shares and calls. I did this with funds raised from selling SQQQ and SOXS. Time will tell whether that was a good move, but it fit my risk tolerance, timeline, and trading/investing style. At the very least you should consider defining these things for yourself.
+                    Reply: IBangTokyoWife: Do you realize that you are on the side of newbie investors and against the veterans and most successful investors of all time like Warren Buffett and peter Lynch? 
+
+If you went into the Dotcom bubble with this attitude you likely would've lost 75%+ of your money and never recovered it. 
+
+Your investing philosophy is just chasing recent trends, and your desire for further concentration confirms this. You are anti science
+                        Reply: DoublePatouain: Which did stock survive in 2008 ? No one, bank fell, reits fell, tech fell. I was in France, and even here, the economy fell while everyone said "don't worry we have not been impacted by   the crisis in US"... Wall street is America, and America is the world. Of course i'm a little bit diversified. I got :
+
+\- ETF for US financial services (i like it)
+
+\- ETF for US utility
+
+I got of course a lot of SP500 and Nasdaq ETF.
+
+And some stock in US gas energy (maybe completed by ETF but i don't want to get oil).
+
+I hesistate to take a stock pick in industrial/infrastructure area or a ETF.
+
+Why ? because Trump will make everything to boost energy, finance and tech. I hesitate for industrial because the inflation could be terrible about the cost of production cause of tariff.
+                            Reply: IBangTokyoWife: It's not about whether or not the stock crashes, it's about whether it's able to recover.
+                                Reply: DoublePatouain: I understand. It's not why ETF exist ?
