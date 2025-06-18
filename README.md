@@ -22,7 +22,6 @@ granular helper scripts in `src/`.
 ---
 
 ## Folder layout
-
 ```text
 FINANZ-ANALYSE/
 ├── Comments/
@@ -40,3 +39,26 @@ FINANZ-ANALYSE/
 │   ├── yahoofinacescraping_stock_resume.py
 │   └── App_commented_en_v2.py (legacy notebook export)
 └── .env                      ← **never commit; holds your API keys**
+```
+## Typical workflows
+
+| Task | Command |
+|------|---------|
+| Pull new Reddit comments <br><span style="font-size:0.9em;">*(can be rate-limited)*</span> | `python -m src.app_cli harvest` |
+| Aggregate sentiment JSON only <br><span style="font-size:0.9em;">*(default)*</span> | `python -m src.app_cli` |
+| Get upcoming earnings for **CAC 40** | `python -m src.calender Tickers/Cac40.txt` |
+
+
+
+
+## Requirements
+
+* **Python 3.10+**  
+* Generate your lock-file:  
+
+  ```bash
+  pip freeze > requirements.txt
+
+## Disclaimer
+This repository is for research & educational purposes only and does not
+constitute financial advice. Trade at your own risk.
