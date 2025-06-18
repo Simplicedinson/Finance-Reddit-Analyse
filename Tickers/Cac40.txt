@@ -1,0 +1,39 @@
+AC, Accor  
+AIR, Airbus SE  
+AI, Air Liquide S.A  
+MT, ArcelorMittal  
+ATO, Atos SE  
+CS, Axa  
+BNP, BNP Paribas  
+EN, Bouygues  
+CAP, Capgemini  
+CA, Carrefour  
+SGO, Compagnie de Saint-Gobain S.A.  
+ACA, Credit Agricole S.A.  
+BN, Danone  
+DSY, Dassault Systemes SA  
+ENGI, Engie  
+EL, EssilorLuxottica  
+RMS, Hermes International  
+KER, Kering  
+LR, Legrand SA  
+OR, L'Oreal  
+MC, Lvmh Moet Hennessy Louis Vuitton SE  
+ML, Michelin  
+ORA, Orange  
+RI, Pernod Ricard  
+PUB, Publicis Groupe SA  
+RNO, Renault S.A.  
+SAF, Safran SA  
+SAN, Sanofi  
+SU, Schneider Electric SE  
+GLE, Societe Generale S.A.  
+SW, Sodexo  
+STMPA, ST Microelectronics  
+HO, Thales S.A.  
+TTE, TotalEnergies SE  
+URW, Unibail-Rodamco-Westfield  
+VIE, Veolia Environnement S.A.  
+DG, Vinci  
+VIV, Vivendi SE  
+WLN, Worldline  
