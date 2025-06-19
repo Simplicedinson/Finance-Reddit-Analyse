@@ -52,7 +52,6 @@ import textwrap
 from datetime import datetime
 import json
 
-
 # ------------------------------------------------------------
 # Helper: fetch earnings calendar for *one* ticker
 # ------------------------------------------------------------
