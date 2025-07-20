@@ -148,7 +148,7 @@ def get_earning_data(pfad):
     with open("./Tickers/data.json") as json_file:
         data = json.load(json_file)
     
-    
+    # get data for all ticker
     for ticker in tickers:
         stock = get_stock_data(ticker)
         if stock.empty:
